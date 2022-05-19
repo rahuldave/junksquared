@@ -9,6 +9,10 @@ __pycache__/
 # Data files
 *.csv
 
+# Emacs backup files
+
+*~
+
 # Distribution / packaging
 .Python
 build/
